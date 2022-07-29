@@ -38,7 +38,7 @@ wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent
 
 ### ARM安装：
 ``` Bash
-wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/myxuchangbin/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy_arm.sh && bash dnsmasq_sniproxy_arm.sh -i
+wget --no-check-certificate -O dnsmasq_sniproxy.sh https://raw.githubusercontent.com/tszho-t/dnsmasq_sniproxy_install/master/dnsmasq_sniproxy_arm.sh && bash dnsmasq_sniproxy_arm.sh -i
 ```
 
 ### 卸载方法：
